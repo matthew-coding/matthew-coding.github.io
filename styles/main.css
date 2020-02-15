@@ -11,3 +11,9 @@
 .sprint-12 {
     margin: auto;
 }
+.box-model {}
+
+.thumb {
+    max-height: 260px;
+    max-width: 240px;
+}
