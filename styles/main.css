@@ -2,10 +2,13 @@
     outline: 1px solid red !important; 
     } */
 
-    body {
+body {
         background-color: #bbbbbb;
         font-family: 'Signika Negative', sans-serif;
         font-weight: 400;
+    }
+    nav {
+        max-height: 15%;
     }
 .sprint-12 {
     margin: auto;
@@ -17,4 +20,8 @@
     border-radius: 150px;
     border-color: #000000;
     border-style: solid;
+}
+#cool {
+    max-height: 20%;
+    max-width: 20%;
 }
