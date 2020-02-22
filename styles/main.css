@@ -10,9 +10,6 @@
 .sprint-12 {
     margin: auto;
 }
- .box-model {
-
-}
 
 .thumb {
     max-height: 260px;
@@ -20,7 +17,4 @@
     border-radius: 150px;
     border-color: #000000;
     border-style: solid;
-}
- .headline {
-
 }
