@@ -18,6 +18,10 @@ body {
     max-height: 260px;
     max-width: 240px;
     border-radius: 150px;
+
+}
+
+.image {
     border-color: #000000;
     border-style: solid;
 }
