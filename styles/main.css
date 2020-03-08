@@ -38,3 +38,9 @@ h4 {
     padding-left: 20%;
     padding-right: 20%;
 }
+.pets {
+    max-height: 100%;
+    max-width: 100%;
+    border-color: #000000;
+    border-style: solid;
+}
